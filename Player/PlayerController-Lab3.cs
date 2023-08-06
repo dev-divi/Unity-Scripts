@@ -105,8 +105,6 @@ public class PlayerControllerLab3 : MonoBehaviour
 
        
     }
-
-    //mayb3e i can 
     
     private void OnCollisionEnter(Collision other)
     {
